@@ -24,7 +24,7 @@
 
 ## 
 
-You can fork this repo to modify and make changes of your own.  [hakimhizmi](https://github.com/Hakimhizmi). Thanks!
+You can download the project and modify it .  [hakimhizmi](https://github.com/Hakimhizmi). Thanks!
 
 ## Built With
 
